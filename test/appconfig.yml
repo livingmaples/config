@@ -1,0 +1,10 @@
+---
+app:
+  name: config
+  mode: test
+  version: 0
+slice:
+- 1
+- '2'
+- '3'
+- a
