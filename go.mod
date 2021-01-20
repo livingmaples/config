@@ -1,4 +1,4 @@
-module livingmaples/packages/config
+module github.com/livingmaples/config
 
 go 1.15
 
